@@ -5,7 +5,7 @@ Existing conversational recommendation (CR) systems normally suffer from insuffi
 Incorporating external information (e.g., reviews) is a potential solution to alleviate this problem.
 Given that reviews often provide rich and detailed user experience on different factors of interest, they are potential ideal resources for providing high-quality recommendations within an informative conversation.
 
-
+![image](https://github.com/JD-AI-Research-NLP/RevCore/blob/main/method_final.pdf)
 <img src="./method_final-page-001.jpg" width=1000 />
 
 We design a novel end-to-end framework, namely, Review-augmented Conversational Recommender (\textbf{RevCore}), where reviews are seamlessly incorporated to enrich item information and assist generating both coherent and informative responses.
