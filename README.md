@@ -7,7 +7,7 @@ Given that reviews often provide rich and detailed user experience on different 
 
 ![image](https://github.com/JD-AI-Research-NLP/RevCore/blob/main/method_final_1.png)
 
-We design a novel end-to-end framework, namely, Review-augmented Conversational Recommender (\textbf{RevCore}), where reviews are seamlessly incorporated to enrich item information and assist generating both coherent and informative responses.
+We design a novel end-to-end framework, namely, Review-augmented Conversational Recommender (RevCore), where reviews are seamlessly incorporated to enrich item information and assist generating both coherent and informative responses.
 Particularly, in RevCore, we extract sentiment-consistent reviews, perform review-enriched and entity-based recommendations for item suggestions, as well as use a review-attentive encoder-decoder for response generation.
 
 (To-Do)
