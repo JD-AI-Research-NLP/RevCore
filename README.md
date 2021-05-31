@@ -1,15 +1,18 @@
-# KGSF
-***KDD2020 Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion***
+# RevCore
+***ACL-Findings 2021 RevCore: Review-argmented Conversational Recommendation***
 
-Conversational recommender system (CRS) aims to recommend proper items through interactive conversation, hence CRS needs to understand user preference from historical dialog, then produce recommendation and generate responses.
+Existing conversational recommendation (CR) systems normally suffer from insufficient item information when conducted on short dialogue history and unfamiliar items.
+Incorporating external information (e.g., reviews) is a potential solution to alleviate this problem.
+Given that reviews often provide rich and detailed user experience on different factors of interest, they are potential ideal resources for providing high-quality recommendations within an informative conversation.
 
-<img src="./table1.png" width=400 height=240 />
 
-In this paper, we propose KGSF model, which first fuses the semantic between word-oriented and entity-oriented knowledge graph by mutual information maximization (MIM), then leverages the enhanced graph representation for item recommendation and response generation.
+<img src="./method_final.pdf" width=400 height=240 />
 
-![](./figure1.png)
+We design a novel end-to-end framework, namely, Review-augmented Conversational Recommender (\textbf{RevCore}), where reviews are seamlessly incorporated to enrich item information and assist generating both coherent and informative responses.
+Particularly, in RevCore, we extract sentiment-consistent reviews, perform review-enriched and entity-based recommendations for item suggestions, as well as use a review-attentive encoder-decoder for response generation.
 
-# Environment
+(To-Do)
+# Environment 
 pytorch==1.3.0, torch_geometric==1.3.2
 
 To be honest, most of errors derive from the wrong installation of the two packages
