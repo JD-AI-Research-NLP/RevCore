@@ -6,7 +6,7 @@ Incorporating external information (e.g., reviews) is a potential solution to al
 Given that reviews often provide rich and detailed user experience on different factors of interest, they are potential ideal resources for providing high-quality recommendations within an informative conversation.
 
 
-<img src="./method_final.jpg" width=400 height=240 />
+<img src="./method_final-page-001.jpg.jpg" width=400 height=240 />
 
 We design a novel end-to-end framework, namely, Review-augmented Conversational Recommender (\textbf{RevCore}), where reviews are seamlessly incorporated to enrich item information and assist generating both coherent and informative responses.
 Particularly, in RevCore, we extract sentiment-consistent reviews, perform review-enriched and entity-based recommendations for item suggestions, as well as use a review-attentive encoder-decoder for response generation.
