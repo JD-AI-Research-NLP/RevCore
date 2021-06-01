@@ -32,19 +32,16 @@ For convenience, our model will report the result on test data automatically aft
 
 # Thanks for your citation
 ```c
-@inproceedings{DBLP:conf/kdd/ZhouZBZWY20,
-  author    = {Kun Zhou and
-               Wayne Xin Zhao and
-               Shuqing Bian and
-               Yuanhang Zhou and
-               Ji{-}Rong Wen and
-               Jingsong Yu},
-  title     = {Improving Conversational Recommender Systems via Knowledge Graph based
-               Semantic Fusion},
-  booktitle = {{KDD} '20: The 26th {ACM} {SIGKDD} Conference on Knowledge Discovery
-               and Data Mining, Virtual Event, CA, USA, August 23-27, 2020},
-  pages     = {1006--1014},
-  year      = {2020},
-  url       = {https://dl.acm.org/doi/10.1145/3394486.3403143}
+@inproceedings{Lu-etal-2021-RevCore,
+    title = "RevCore: Review-argmented Conversational Recommendation",
+    author = "Lu, Yu  and
+    Bao, Junwei and
+    Song, Yan  and
+    Ma, Zichen  and
+    Cui, Shuguang  and
+    Wu, Youzheng  and
+    He, Xiaodong",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+    year = "2021",
 }
 ```
