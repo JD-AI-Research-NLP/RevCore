@@ -30,6 +30,9 @@ Then you can run the following code to learn the conversation task. Limitted by 
 
 For convenience, our model will report the result on test data automatically after covergence.
 
+# Data
+https://drive.google.com/drive/folders/1FudA_Ouv7IkfJ15hA51gcIsCps_FUkAJ?usp=sharing
+
 # Thanks for your citation
 ```c
 @inproceedings{Lu-etal-2021-RevCore,
