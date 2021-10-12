@@ -1,5 +1,5 @@
 # RevCore
-***ACL-Findings 2021 RevCore: Review-argmented Conversational Recommendation***
+***ACL-Findings 2021 RevCore: Review-augmented Conversational Recommendation***
 
 Existing conversational recommendation (CR) systems normally suffer from insufficient item information when conducted on short dialogue history and unfamiliar items.
 Incorporating external information (e.g., reviews) is a potential solution to alleviate this problem.
