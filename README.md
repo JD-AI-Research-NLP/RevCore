@@ -1,6 +1,6 @@
 # RevCore
 ***ACL-Findings 2021 RevCore: Review-augmented Conversational Recommendation***
-<!-- 哈哈我是多段 注释， 不会在浏览器中显示。 -->
+
 Existing conversational recommendation (CR) systems normally suffer from insufficient item information when conducted on short dialogue history and unfamiliar items.
 Incorporating external information (e.g., reviews) is a potential solution to alleviate this problem.
 Given that reviews often provide rich and detailed user experience on different factors of interest, they are potential ideal resources for providing high-quality recommendations within an informative conversation.
@@ -11,6 +11,7 @@ We design a novel end-to-end framework, namely, Review-augmented Conversational 
 Particularly, in RevCore, we extract sentiment-consistent reviews, perform review-enriched and entity-based recommendations for item suggestions, as well as use a review-attentive encoder-decoder for response generation.
 
 (To-Do)
+<!-- 哈哈我是多段 注释， 不会在浏览器中显示。
 # Environment 
 pytorch==1.3.0, torch_geometric==1.3.2
 
@@ -48,3 +49,4 @@ https://drive.google.com/drive/folders/1FudA_Ouv7IkfJ15hA51gcIsCps_FUkAJ?usp=sha
     year = "2021",
 }
 ```
+ -->
