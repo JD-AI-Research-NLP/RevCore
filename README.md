@@ -13,7 +13,7 @@ Particularly, in RevCore, we extract sentiment-consistent reviews, perform revie
 (To-Do)
 
 # Environment 
-pytorch==1.7.0, torch_geometric==2.0.1
+pytorch==1.7.0, torch_geometric==2.0.1,
 cuda==11.0 
 
 
